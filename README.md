@@ -3,7 +3,7 @@
 ![Raylib](https://img.shields.io/badge/Raylib-000000?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
-A weekend project which is happens to be a flappy bird clone made in C++ with Raylib
+A weekend project which happens to be a flappy bird clone made in C++ with Raylib
 
 ## Screen Shots
 <img width="602" height="827" alt="Gameplay" src="https://github.com/user-attachments/assets/b6325753-1464-4a71-9163-5b1a1c564c1e" />
