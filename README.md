@@ -5,6 +5,11 @@
 
 A weekend project which is happens to be a flappy bird clone made in C++ with Raylib
 
+##Screen Shots
+<img width="602" height="827" alt="Gameplay" src="https://github.com/user-attachments/assets/b6325753-1464-4a71-9163-5b1a1c564c1e" />
+<img width="602" height="827" alt="DeathScreen" src="https://github.com/user-attachments/assets/f3b2dca5-413c-4a84-937b-7db5b526506b" />
+
+
 ## About 
 1. This is my very human C++ project I made in a weekend as a beginner.
 2. This project is a direct clone of Flappy Bird.
