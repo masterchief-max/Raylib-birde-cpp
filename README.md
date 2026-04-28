@@ -4,3 +4,19 @@
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 A weekend project which is happens to be a flappy bird clone made in C++ with Raylib
+
+## About 
+1. This is my very human C++ project I made in a weekend as a beginner.
+2. This project is a direct clone of Flappy Bird.
+3. Note: I have used Ai generated assests.
+
+## How To Install
+1. First install VS code by downloading setup on windows.
+2. Then install Raylib by downloading its setup from here: https://www.raylib.com/
+3. After installing Raylib clone a temeplate repository for Raylib like this one: https://github.com/educ8s/Raylib-CPP-Starter-Template-for-VSCODE
+4. After cloning the temeplate repo or you don't need a temeplate repo becuase this repo is already in a temeplate so in root directory just click Open With Code and run the code with F5.
+5. This setup is only for Windows.
+
+## Controls
+1. Space to jump.
+2. R to restart the game at death screen.
